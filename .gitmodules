@@ -1,0 +1,3 @@
+[submodule "braintree-android-drop-in"]
+	path = braintree-android-drop-in
+	url = git@github.com:flowkey/braintree-android-drop-in.git
