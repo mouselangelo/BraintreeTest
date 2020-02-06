@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w700dp-v13/values-w700dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/src/main/res/values-w700dp/dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/values-w700dp-v13/values-w700dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/src/main/res/values-w700dp/dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                }
+            ]
+        }
+    ]
+}

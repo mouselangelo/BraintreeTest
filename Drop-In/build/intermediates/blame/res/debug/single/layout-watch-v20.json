@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/1ed707a8fbc75bafb5e3cad06963a122/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/1ed707a8fbc75bafb5e3cad06963a122/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

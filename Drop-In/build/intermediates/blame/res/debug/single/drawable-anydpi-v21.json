@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/2c397578ffecebb22ac1c91c243ad886/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/drawable-anydpi-v21/plus.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/jetified-cardinalmobilesdk-2.2.1-2.aar/6912d80f92cba1985f2b796324f38287/res/drawable-anydpi-v21/plus.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/2c397578ffecebb22ac1c91c243ad886/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/drawable-anydpi-v21/minus.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/jetified-cardinalmobilesdk-2.2.1-2.aar/6912d80f92cba1985f2b796324f38287/res/drawable-anydpi-v21/minus.xml"
+    }
+]

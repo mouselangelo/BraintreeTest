@@ -1,0 +1,140 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/2c397578ffecebb22ac1c91c243ad886/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "804",
+                        "endLines": "16",
+                        "endColumns": "10",
+                        "endOffsets": "971"
+                    }
+                },
+                {
+                    "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/jetified-card-form-4.2.0.aar/025483743c84a5dc29831f93064ef588/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,192",
+                        "endColumns": "63,72,72",
+                        "endOffsets": "114,187,260"
+                    },
+                    "to": {
+                        "startLines": "7,8,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "411,475,548",
+                        "endColumns": "63,72,72",
+                        "endOffsets": "470,543,616"
+                    }
+                },
+                {
+                    "source": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/src/main/res/values-land/dimens.xml",
+                    "from": {
+                        "startLines": "3,4,2,6,5",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "117,193,55,324,264",
+                        "endColumns": "75,70,61,60,59",
+                        "endOffsets": "188,259,112,380,319"
+                    },
+                    "to": {
+                        "startLines": "5,6,10,11,12",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "264,340,621,683,744",
+                        "endColumns": "75,70,61,60,59",
+                        "endOffsets": "335,406,678,739,799"
+                    }
+                },
+                {
+                    "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/1ed707a8fbc75bafb5e3cad06963a122/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/2c397578ffecebb22ac1c91c243ad886/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "804",
+                        "endLines": "16",
+                        "endColumns": "10",
+                        "endOffsets": "971"
+                    }
+                },
+                {
+                    "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/jetified-card-form-4.2.0.aar/025483743c84a5dc29831f93064ef588/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,192",
+                        "endColumns": "63,72,72",
+                        "endOffsets": "114,187,260"
+                    },
+                    "to": {
+                        "startLines": "7,8,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "411,475,548",
+                        "endColumns": "63,72,72",
+                        "endOffsets": "470,543,616"
+                    }
+                },
+                {
+                    "source": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/src/main/res/values-land/dimens.xml",
+                    "from": {
+                        "startLines": "3,4,2,6,5",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "117,193,55,324,264",
+                        "endColumns": "75,70,61,60,59",
+                        "endOffsets": "188,259,112,380,319"
+                    },
+                    "to": {
+                        "startLines": "5,6,10,11,12",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "264,340,621,683,744",
+                        "endColumns": "75,70,61,60,59",
+                        "endOffsets": "335,406,678,739,799"
+                    }
+                },
+                {
+                    "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/1ed707a8fbc75bafb5e3cad06963a122/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

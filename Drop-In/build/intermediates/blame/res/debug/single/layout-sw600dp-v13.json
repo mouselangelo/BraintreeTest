@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/2c397578ffecebb22ac1c91c243ad886/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/2c397578ffecebb22ac1c91c243ad886/res/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    }
+]

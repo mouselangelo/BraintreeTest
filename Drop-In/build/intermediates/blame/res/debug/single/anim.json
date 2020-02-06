@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/1ed707a8fbc75bafb5e3cad06963a122/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/1ed707a8fbc75bafb5e3cad06963a122/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/bt_expiration_date_dialog_open.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/jetified-card-form-4.2.0.aar/025483743c84a5dc29831f93064ef588/res/anim/bt_expiration_date_dialog_open.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/1ed707a8fbc75bafb5e3cad06963a122/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/1ed707a8fbc75bafb5e3cad06963a122/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/2c397578ffecebb22ac1c91c243ad886/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/1ed707a8fbc75bafb5e3cad06963a122/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/bt_error_animation.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/jetified-card-form-4.2.0.aar/025483743c84a5dc29831f93064ef588/res/anim/bt_error_animation.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/abc_tooltip_enter.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/1ed707a8fbc75bafb5e3cad06963a122/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/1ed707a8fbc75bafb5e3cad06963a122/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/bt_slide_out_down.xml",
+        "source": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/src/main/res/anim/bt_slide_out_down.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/1ed707a8fbc75bafb5e3cad06963a122/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/abc_tooltip_exit.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/1ed707a8fbc75bafb5e3cad06963a122/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/bt_slide_in_up.xml",
+        "source": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/src/main/res/anim/bt_slide_in_up.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/1ed707a8fbc75bafb5e3cad06963a122/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/1ed707a8fbc75bafb5e3cad06963a122/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/bt_bottom_sheet_dialog_close.xml",
+        "source": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/src/main/res/anim/bt_bottom_sheet_dialog_close.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/bt_expiration_date_dialog_close.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/jetified-card-form-4.2.0.aar/025483743c84a5dc29831f93064ef588/res/anim/bt_expiration_date_dialog_close.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/bt_bottom_sheet_dialog_open.xml",
+        "source": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/src/main/res/anim/bt_bottom_sheet_dialog_open.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/2c397578ffecebb22ac1c91c243ad886/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/chetan/Documents/git/external/braintree/BraintreeTest/Drop-In/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/chetan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/1ed707a8fbc75bafb5e3cad06963a122/res/anim/abc_slide_out_top.xml"
+    }
+]
